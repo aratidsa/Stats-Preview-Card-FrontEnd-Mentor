@@ -27,7 +27,7 @@ In this small project, build out this blog preview card and get it looking as cl
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/aratidsa/Stats-Preview-Card-FrontEnd-Mentor
 - Live Site URL: 
 
 ## My process
