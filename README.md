@@ -20,9 +20,11 @@ In this small project, build out this blog preview card and get it looking as cl
 
 ### Screenshot
 - Desktop
+![Screenshot 2024-02-24 212321](https://github.com/aratidsa/Stats-Preview-Card-FrontEnd-Mentor/assets/128802362/248cd3a2-c5a6-47dd-823e-1150f29e458e)
 
   
 - Mobile  
+![127 0 0 1_5500_index html(iPhone SE)](https://github.com/aratidsa/Stats-Preview-Card-FrontEnd-Mentor/assets/128802362/6ab988c9-a6ee-49ab-9d92-01ff1fc0afa1)
 
 
 ### Links
