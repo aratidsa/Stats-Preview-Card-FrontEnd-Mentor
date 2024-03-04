@@ -16,7 +16,7 @@ This is a solution to the [Stats Preview Card challenge on Frontend Mentor](http
 ## Overview
 
 ### The challenge
-In this small project, build out this blog preview card and get it looking as close to the design as possible.. 
+In this small project, build out this Stats Preview Card and get it looking as close to the design as possible.. 
 
 ### Screenshot
 - Desktop
