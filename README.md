@@ -11,7 +11,6 @@ This is a solution to the [Stats Preview Card challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
